@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    float: left;
+  }
+  
+  .class1,
+  .class2,
+  .class3 {
+    width: 33.33%;
+    float: left;
+    height: 65%;
+    
+  }
+  
+  p {
+    padding-top: 25px;
+    text-align: center;
+  }
+  h1{
+      text-align: center;
+  }
+  h2{
+      text-align: center;
+  }
+  footer{
+      text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.class4,
+  .class5 {
+    width: 50%;
+    float: left;
+    height: 20%;
+  }
